@@ -1,0 +1,64 @@
+ 
+
+.header,
+footer {
+    background-color: #1f2937;
+}
+
+.main {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+}
+
+.second {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+button, .footer {
+    background-color: #3882f6;
+}
+.info {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+span {
+    background-color: #e5e7eb;
+}
+
+em {
+    font-size: 36px;
+    color: #1f2937;
+}
+
+.author {
+    font-weight: 700;
+}
+
+a {
+    font-size: 22px;
+    color: #e5e7eb;
+    padding: 8px;
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 8px;
+}
+
+ul {
+    /* this removes the dots on the list items*/
+    list-style-type: none;
+  }
+
